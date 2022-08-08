@@ -1,3 +1,3 @@
 # Starcross Advocates
 
-Law Firm Website Created Using Wordpress CMS
+Website Created Using Wordpress CMS
